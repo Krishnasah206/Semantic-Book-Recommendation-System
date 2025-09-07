@@ -1,0 +1,14 @@
+pandas==1.5.3
+numpy==1.21.4
+streamlit==1.18.1
+langchain==0.0.142
+faiss-cpu==1.7.1
+python-dotenv==0.21.1
+setuptools==59.5.0
+altair==4.1.0  # Ensure altair version compatibility
+rich==12.5.1
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+unstructured
+
